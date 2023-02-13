@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  <h2> Effective Regalia v0.2+ </h1>
+  <h2> Effective Regalia v0.2+ </h2>
 
   <h4> This Covers All Features Introduced In version 0.2 </h4>
   
