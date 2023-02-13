@@ -2,7 +2,7 @@
 
   <h2> Effective Regalia v0.2+ </h1>
 
-  <h4> This Covers All Features Introduced In version 0.2 </h3>
+  <h4> This Covers All Features Introduced In version 0.2 </h4>
   
   <br>
 
