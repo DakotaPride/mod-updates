@@ -25,7 +25,7 @@
     <td> 1.19.2 </td>
     <td> 1.19.2 </td>
     <td> v0.2 </td>
-    <td> Updating </td>
+    <td> Updated </td>
     <td> Curseforge/Modrinth </td>
   </tr>
   
@@ -45,7 +45,7 @@
     <td> 1.19.2 </td>
     <td> 1.18.2, 1.19.2 </td>
     <td> v1.0.1 </td>
-    <td> Updating </td>
+    <td> Updated </td>
     <td> Curseforge </td>
   </tr>
   
