@@ -5,8 +5,6 @@
   <h4> This Covers All Features Introduced In version 0.2 </h3>
   
   <br>
-  
-  <h3> v0.2 </h3>
 
 </div>
 
