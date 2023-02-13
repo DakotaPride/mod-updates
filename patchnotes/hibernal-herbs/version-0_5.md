@@ -53,8 +53,6 @@
 </div>
 
 <ul>
-  
   <li> [v0.5.2] Add Compatibility For Bewitchment (allow for herbs to produce Magical Energy (ME) </li>
   <li> [v0.5.2] Add Compatibility For Archeology (allow for herb placement in flower pots/pots) </li>
-  
 </ul>
