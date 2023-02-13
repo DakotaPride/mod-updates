@@ -1,8 +1,8 @@
 <div align="center"> 
 
-  <h2> Hibernal Herbs v0.5+ </h1>
+  <h2> Hibernal Herbs v0.5+ </h2>
 
-  <h4> This Covers All Features Introduced In versions 0.5 through 0.5.3 </h3>
+  <h4> This Covers All Features Introduced In versions 0.5 through 0.5.3 </h4>
   <h6> Forge & Fabric Respectively </h6>
   
   <br>
