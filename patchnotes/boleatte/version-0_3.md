@@ -2,7 +2,7 @@
 
 <h2> Boleatte v0.3+ </h2>
 
-<h4> This Covers All Features Introduced In version 0.3 </h4>
+<h4> This Covers All Features Introduced In versions 0.3 through 0.3.1 </h4>
 
 <br>
 
