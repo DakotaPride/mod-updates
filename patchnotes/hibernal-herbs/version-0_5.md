@@ -43,7 +43,7 @@
 </div>
 
 <ul>
-  <li> [v0.5] Add Compatibility Between Hibernal Herbs And Stay Warm Together. Specifically, Add an Exclusive Herb And Blend Variant, Crafted By Using Materials From Both Mods </l>
+  <li> [v0.5] Add Compatibility Between Hibernal Herbs And Stay Warm Together. Specifically, Add an Exclusive Herb And Blend Variant, Crafted By Using Materials From Both Mods </li>
 </ul>
 
 <div align="center">
