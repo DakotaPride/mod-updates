@@ -105,3 +105,9 @@
   
   <h6> From Left To Right </h6>
   <h6> Clematis - Cymbidium - Deciduous Holly - Glory Of The Snow - Hellebore - Pieris - Winter Jasmine - Snowdrop </6>
+
+  <br>
+  <br>
+  <br>
+  
+  <h6> <i> Everything Mentioned Here Is Not Yet In Development, And Are Merely Concepts For Potential Updates. </i> </h6>
