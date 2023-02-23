@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2> Version 7.0+ </h2>
+  <h2> Version 0.7+ </h2>
   <h4> The Spring Update & General Plans Regarding 2023 </h4>
   
   <br>
@@ -21,23 +21,23 @@
 <ul>
   <li> Spring Update [March-April 2023] </li>
   <ul>
-    <li> v7.0 (Mainline Release) </li>
+    <li> v0.7 (Mainline Release) </li>
     <li> Adjusting the Herb Fertilizer Item, as well as adding some spring-related herbs and the like </li>
   </ul>
   <li> Summer Update [June-July (?) 2023] </li>
   <ul>
-    <li> v7.? (Bugfix/Patch) </li>
+    <li> v0.7.? (Bugfix/Patch) </li>
     <li> Potentially Updating To Minecraft 1.20 and updating the Herb Fertilizer Features introduced in Version 7.0 </li>
   </ul>
   <li> Halloween Update [October-November 2023] </li>
   <ul>
-    <li> v8.0 (Mainline Release/Patch) </li>
+    <li> v0.8 (Mainline Release/Patch) </li>
     <li> 1 Year Anniversary Of Development! </li>
     <li> Mainly Adding 'Spooky' Related Features, such as more herbs that could be found in the Taiga biomes (by default, I plan to have it spawn in all taiga biomes, but this could change leading up to the release). Also, fix any bugs that may have been caused in the previous updates. </li>
   </ul>
   <li> Winter/Festive Update [December-January 2023-2024] </li>
   <ul>
-    <li> v9.0 (Major Release) </li>
+    <li> v0.9 (Major Release) </li>
     <li> I plan to add several new herbs (potentially doubling the amount of herbs in the mod). Of course, these herbs will still have the same premise as the other ones, which is that they will be based on herbs that are cold-resistant. (this, of course, is only existant for herbs based on actual herbs that exist in real life. Herbs such as fennkystral or punuel, etc. are not affected by this premise, as they do not actually exist) </li>
   </ul>
 </ul>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-  <h3> What is Planned For Version 7.0? </h3>
+  <h3> What is Planned For Version 0.7? </h3>
   
 </div>
 
