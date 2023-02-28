@@ -58,14 +58,4 @@
     <td> Abandoned/Reworking </td>
     <td> Modrinth </td>
   </tr>
-  
-  <tr>
-    <td> Transcendent Ancients </td>
-    <td> Fabric </td>
-    <td> None </td>
-    <td> None </td>
-    <td> Unknown </td>
-    <td> Developing </td>
-    <td> Unknown </td>
-  </tr>
 </table>
