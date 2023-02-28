@@ -14,7 +14,7 @@
     <td> Fabric/Forge </td>
     <td> 1.19.2 </td>
     <td> 1.19.2 </td>
-    <td> v0.5.3 </td>
+    <td> v0.6.1 </td>
     <td> Updating </td>
     <td> Curseforge/Modrinth </td>
   </tr>
@@ -25,7 +25,7 @@
     <td> 1.19.2 </td>
     <td> 1.19.2 </td>
     <td> v0.2 </td>
-    <td> Updated </td>
+    <td> Updating </td>
     <td> Curseforge/Modrinth </td>
   </tr>
   
