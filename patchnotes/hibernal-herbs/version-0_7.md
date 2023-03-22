@@ -41,3 +41,13 @@
   <li> [v0.7.2] Make Herbs And Other Items That Are Compostable In Fabric Compostable In Forge. </li>
   <li> [v0.7.2] Add 'herbs' Hexerei Tag. </li>
 </ul>
+
+<div align="center">
+
+  <h3> Fabric Features </h3>
+
+</div>
+
+<ul>
+  <li> [v0.7.2] Add Compatibility Tags For Upcoming Boleatte Update. </li>
+</ul>
