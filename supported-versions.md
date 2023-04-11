@@ -15,7 +15,7 @@
     <td> 1.19.2 </td>
     <td> 1.19.2 </td>
     <td> v0.8 </td>
-    <td> Getting Approved... </td>
+    <td> Updated </td>
     <td> Curseforge/Modrinth </td>
   </tr>
   
